@@ -1,1 +1,3 @@
 # Demos-for-Extenstion-WaveNet-conditioned-on-Magnitude-concatenated-with-Group-Delay-information
+These are speech demos of bond-conducted speech enhancement methods. 
+The demos of proposed method E-WN-M+GD （Extenstion WaveNet conditioned on Magnitude concatenated with Group Delay information) and the method E-WN-M (Extenstion WaveNet conditioned on Magnitude) which is without group delay information are provided. The demos of corresponding original bone-conducted (BC) speech, air-conducted speech (AC) and comparing methods including IFFT, Griffin-Lim, Lws are also provided. It is recommended that the listeners play the demos loudly, so the difference between different methods can be distinguished more clearly. 
